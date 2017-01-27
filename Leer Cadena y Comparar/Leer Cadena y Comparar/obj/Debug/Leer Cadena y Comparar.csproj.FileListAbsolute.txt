@@ -1,0 +1,6 @@
+c:\users\suasnavar solis\documents\visual studio 2012\Projects\Leer Cadena y Comparar\Leer Cadena y Comparar\bin\Debug\Leer Cadena y Comparar.exe.config
+c:\users\suasnavar solis\documents\visual studio 2012\Projects\Leer Cadena y Comparar\Leer Cadena y Comparar\bin\Debug\Leer Cadena y Comparar.exe
+c:\users\suasnavar solis\documents\visual studio 2012\Projects\Leer Cadena y Comparar\Leer Cadena y Comparar\bin\Debug\Leer Cadena y Comparar.pdb
+c:\users\suasnavar solis\documents\visual studio 2012\Projects\Leer Cadena y Comparar\Leer Cadena y Comparar\obj\Debug\Leer Cadena y Comparar.csprojResolveAssemblyReference.cache
+c:\users\suasnavar solis\documents\visual studio 2012\Projects\Leer Cadena y Comparar\Leer Cadena y Comparar\obj\Debug\Leer Cadena y Comparar.exe
+c:\users\suasnavar solis\documents\visual studio 2012\Projects\Leer Cadena y Comparar\Leer Cadena y Comparar\obj\Debug\Leer Cadena y Comparar.pdb
